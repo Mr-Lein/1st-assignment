@@ -4,4 +4,4 @@
 3. Write a method called smallestValue that will find the smalles value in your array
 
    ## You will need to link your Github account to this assignment before you can work on it.
-   ## Don't forget to PUSH your work!
+   ## Don't forget to COMMIT (with comment), STAGE, and PUSH your work!
